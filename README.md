@@ -1,6 +1,6 @@
 # Weather-app
 
-Link to project- https://tarun-sachan.github.io/Weather-app/
+[Link to project-](https://tarun-sachan.github.io/Weather-app/)
 
 ![Screenshot 2023-02-14 at 21-38-44 Weather Now](https://user-images.githubusercontent.com/117214735/218793192-c95e7518-6ad7-41c3-8a9f-d23b14961ade.png)
 
